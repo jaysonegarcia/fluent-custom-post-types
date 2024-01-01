@@ -1,0 +1,14 @@
+{
+  "name": "hallowichig0/fluent-custom-post-types",
+  "type": "wordpress-plugin",
+  "description": "Developer-friendly fluent interface for registering WordPress custom post types",
+  "homepage": "https://github.com/hallowichig0/fluent-custom-post-types",
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": "^7.1|^8.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
