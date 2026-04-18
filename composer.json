@@ -1,8 +1,8 @@
 {
-  "name": "hallowichig0/fluent-custom-post-types",
+  "name": "jaysonegarcia/fluent-custom-post-types",
   "type": "wordpress-plugin",
   "description": "Developer-friendly fluent interface for registering WordPress custom post types",
-  "homepage": "https://github.com/hallowichig0/fluent-custom-post-types",
+  "homepage": "https://github.com/jaysonegarcia/fluent-custom-post-types",
   "keywords": [
     "wordpress"
   ],
