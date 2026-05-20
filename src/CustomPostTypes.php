@@ -1,9 +1,9 @@
 <?php
 
-namespace Copia;
+namespace FluentCustomPostTypes;
 
-use Copia\CustomWordpressObject\PostType;
-use Copia\CustomWordpressObject\Taxonomy;
+use FluentCustomPostTypes\CustomWordpressObject\PostType;
+use FluentCustomPostTypes\CustomWordpressObject\Taxonomy;
 
 final class CustomPostTypes
 {

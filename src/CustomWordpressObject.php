@@ -1,6 +1,6 @@
 <?php
 
-namespace Copia;
+namespace FluentCustomPostTypes;
 
 abstract class CustomWordpressObject
 {

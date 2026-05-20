@@ -1,8 +1,8 @@
 <?php
 
-namespace Copia\CustomWordpressObject;
+namespace FluentCustomPostTypes\CustomWordpressObject;
 
-use Copia\CustomWordpressObject;
+use FluentCustomPostTypes\CustomWordpressObject;
 
 final class PostType extends CustomWordpressObject
 {

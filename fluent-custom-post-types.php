@@ -3,15 +3,13 @@
 Plugin Name:  Fluent Custom Post Types
 Description:  Developer-friendly fluent interface for registering WordPress custom post types
 Version:      1.0.0
-Author:       Copia Digital
-Author URI:   https://www.copiadigital.com/
 License:      MIT License
 */
 
-use Copia\CustomWordpressObject;
-use Copia\CustomWordpressObject\PostType;
-use Copia\CustomWordpressObject\Taxonomy;
-use Copia\CustomPostTypes;
+use FluentCustomPostTypes\CustomWordpressObject;
+use FluentCustomPostTypes\CustomWordpressObject\PostType;
+use FluentCustomPostTypes\CustomWordpressObject\Taxonomy;
+use FluentCustomPostTypes\CustomPostTypes;
 
 /**
  * Autoload classes from PSR4 src directory
