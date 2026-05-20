@@ -3,6 +3,8 @@
 Plugin Name:  Fluent Custom Post Types
 Description:  Developer-friendly fluent interface for registering WordPress custom post types
 Version:      1.0.0
+Author:       jaysonegarcia
+Author URI:   https://jaysonegarcia.github.io/
 License:      MIT License
 */
 
